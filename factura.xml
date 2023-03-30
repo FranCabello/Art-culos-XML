@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<factura>
+
+    <codigo>
+        <fecha></fecha>
+    </codigo>
+
+    <cliente>
+        <DNI></DNI>
+        <nombre></nombre>
+        <apellido></apellido>
+        <direccion></direccion>
+        <telefono></telefono>
+    </cliente>
+
+    <coche>
+        <marca></marca>
+        <modelo></modelo>
+    </coche> 
+    
+</factura>
